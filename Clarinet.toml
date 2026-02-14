@@ -1,0 +1,25 @@
+[project]
+name = "stacks-smart-contracts"
+description = "A comprehensive collection of Clarity smart contracts for the Stacks blockchain - including SIP-010 tokens, SIP-009 NFTs, DAO governance, DeFi staking, and multi-sig wallet"
+authors = ["rajuice"]
+telemetry = false
+cache_dir = ".cache"
+requirements = []
+
+[contracts.sip010-token]
+path = "contracts/sip010-token.clar"
+
+[contracts.sip009-nft]
+path = "contracts/sip009-nft.clar"
+
+[contracts.dao-governance]
+path = "contracts/dao-governance.clar"
+
+[contracts.defi-staking]
+path = "contracts/defi-staking.clar"
+
+[contracts.multisig-wallet]
+path = "contracts/multisig-wallet.clar"
+
+[repl.analysis]
+passes = ["check_checker"]
