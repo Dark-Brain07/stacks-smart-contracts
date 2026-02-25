@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [SIP-010 Standard](https://github.com/stacksgov/sips/blob/main/sips/sip-010/sip-010-fungible-token-standard.md)
 - [SIP-009 Standard](https://github.com/stacksgov/sips/blob/main/sips/sip-009/sip-009-nft-standard.md)
 
----
+------
 
 Built with ❤️ for the Stacks ecosystem.
